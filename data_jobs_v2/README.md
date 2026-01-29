@@ -1,5 +1,5 @@
 # Data Jobs Dashboard v2 w/ Power BI
-![alt text](Dashboard_2_img_1-1.png)
+![alt text](DashBoard_2_img_1-1.png)
 ## Introduction
 Navigating the data career landscape can feel like a maze. Dashboard V2.0 simplifies the search by providing actionable insights powered by actual 2024 job market data. Whether you are entering the field or pivoting to a new role, this tool offers a streamlined interface to analyze global hiring trends and compensation.
 
