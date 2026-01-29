@@ -4,7 +4,7 @@
 Navigating the data career landscape can feel like a maze. Dashboard V2.0 simplifies the search by providing actionable insights powered by actual 2024 job market data. Whether you are entering the field or pivoting to a new role, this tool offers a streamlined interface to analyze global hiring trends and compensation.
 
 ## Dashboard File
-The source file for this project is available here: [Data_Jobs_DashBoard_2.0.pbix](<d:/Power bi stuff/Data_Jobs_DashBoard_2.0.pbix>)
+The source file for this project is available here:[Data_Jobs_DashBoard_2.0.pbix](Data_Jobs_DashBoard_2.0.pbix) 
 
 ## Skills Showcased
 **Data Engineering & Modeling**
