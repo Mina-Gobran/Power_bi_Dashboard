@@ -1,4 +1,4 @@
-# MY Power BI Dashboard Portfolio
+# Power BI Dashboard Portfolio
 This repository includes my work on the 2 versions of my dashboards for Power BI I've developed.
 It tracks my journey from foundational reports to more advanced interactive analysis, all aimed at turning data into clear, actionable insights.
 ## Featured Dashboards
