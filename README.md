@@ -6,8 +6,7 @@ It tracks my journey from foundational reports to more advanced interactive anal
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features
 
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
-![alt text](Project1_Dashboard_Overview.gif)
-*Key Power BI Skills Utilized:*
+![alt text](images/Project1_Dashboard_Overview.gif)
 
 * Dashboard Layout & Design
 * Power Query
